@@ -38,6 +38,6 @@
 <a align="center" href="https://www.instagram.com/samuca.nd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a align="center" href="https://www.linkedin.com/in/devsamuca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Link do Projeto: [https://github.com/devsamuca/Gera-Senha-Python.git](https://github.com/devsamuca/Gera-Senha-Python.git)
+Link do Projeto: [https://github.com/devsamuca/Python-Password-Generator.git](https://github.com/devsamuca/Gera-Senha-Python.git)
 
 </div>
