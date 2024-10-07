@@ -25,7 +25,7 @@
 <h1 align="center"> Interface do Software</h1>
 
 <div align="center">
-  <img src="final.png">
+  <img height="350px" src="final.png">
 </div>
 
 
