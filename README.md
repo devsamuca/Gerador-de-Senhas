@@ -1,17 +1,17 @@
-<h1 align="center">Hi, my name is Samuel Souza👋</h1>
+<h1 align="center">Olá, meu nome é Samuel Souza👋</h1>
   <div align="center"> <img src="https://cdn-icons-png.flaticon.com/512/5582/5582931.png" alt="Logo" width="80" height="80"> </div>
 
-  <h3 align="center">Python Password Generator</h3>
+  <h3 align="center">Gerador de senhas Python</h3>
 
 
 
-<h1 align="center"> About The Project </h1>
+<h1 align="center">Sobre o Projeto </h1>
 
-<div align="center">This project consists of an executable version of the web password generator at: github.com/devsamuca/Password-Generator</div>
+<div align="center">Este projeto consiste em uma versão executável do seguinte projeto web: github.com/devsamuca/Password-Generator</div>
 
-<h1 align="center"> Built With </h1>
+<h1 align="center"> Construído com: </h1>
 
-<div align="center">The following tools and technologies were used to carry out this project:</div>
+<div align="center">As seguintes ferramentas e tecnologias foram utilizadas para executar este projeto:</div>
 
 <br>
 
